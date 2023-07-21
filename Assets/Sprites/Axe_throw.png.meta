@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 7eba2268efeb44fbea5edb8145b4e70a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4595ee617c4504ece8c51ac77f0e81b3
+      internalID: -459330334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c72060d1d6684f9784c676db0efb917
+      internalID: 104938521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 65
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5d89a603614e0984415318ec12cc1
+      internalID: -1013872526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 56
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004931371f8e4875a98568a87c42a09
+      internalID: 1688201744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 648aae3b7ad714fb7a8fa3cb2aadaaa5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Axe_27: 838693617
+      Arcade - Ghouls n Ghosts - Axe_24: 428599172
+      Arcade - Ghouls n Ghosts - Axe_26: -1489118525
+      Arcade - Ghouls n Ghosts - Axe_13: -1358489259
+      Arcade - Ghouls n Ghosts - Axe_23: -1958375220
+      Arcade - Ghouls n Ghosts - Axe_16: -399552859
+      Arcade - Ghouls n Ghosts - Axe_28: -635434349
+      Arcade - Ghouls n Ghosts - Axe_1: 104938521
+      Arcade - Ghouls n Ghosts - Axe_4: 11161318
+      Arcade - Ghouls n Ghosts - Axe_9: -155890635
+      Arcade - Ghouls n Ghosts - Axe_11: -897164886
+      Arcade - Ghouls n Ghosts - Axe_10: 1289786633
+      Arcade - Ghouls n Ghosts - Axe_20: -1453026520
+      Arcade - Ghouls n Ghosts - Axe_22: -1831950635
+      Arcade - Ghouls n Ghosts - Axe_14: 2083989030
+      Arcade - Ghouls n Ghosts - Axe_6: 1067268129
+      Arcade - Ghouls n Ghosts - Axe_3: 1688201744
+      Arcade - Ghouls n Ghosts - Axe_15: -88996088
+      Arcade - Ghouls n Ghosts - Axe_18: 1362452388
+      Arcade - Ghouls n Ghosts - Axe_21: 2106325155
+      Arcade - Ghouls n Ghosts - Axe_30: 908892469
+      Arcade - Ghouls n Ghosts - Axe_25: -1339017218
+      Arcade - Ghouls n Ghosts - Axe_0: -459330334
+      Arcade - Ghouls n Ghosts - Axe_29: 409995211
+      Arcade - Ghouls n Ghosts - Axe_7: -856976145
+      Arcade - Ghouls n Ghosts - Axe_12: 778167258
+      Arcade - Ghouls n Ghosts - Axe_5: 848393043
+      Arcade - Ghouls n Ghosts - Axe_8: -1762012199
+      Arcade - Ghouls n Ghosts - Axe_2: -1013872526
+      Arcade - Ghouls n Ghosts - Axe_17: -932528189
+      Arcade - Ghouls n Ghosts - Axe_19: -278795054
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

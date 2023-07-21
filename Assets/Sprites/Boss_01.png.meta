@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 9d308c8c618284894b8659938d53f0fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc031b1e8f540c9b071aa31872b064
+      internalID: -1061287615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 127
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b2ab9b182e1431f979f98b1b21e72d
+      internalID: -2088769594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 127
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086eabf4897f1437ebafb689bac412c2
+      internalID: 1276395877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 46
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d692942079764f94a60127c43ad5ad6
+      internalID: -982693952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 46
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0433344be6cf6473abaee1ad26f45a20
+      internalID: -2093502562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 98
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c301c98ac560a44b6a969d9b6b495567
+      internalID: 321904776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 101
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18512cafb5448958510dd2acd4294d
+      internalID: -579843046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 100
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de8c70c771954995a34faea4c3b7ec5
+      internalID: 877739714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 65
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54b07953cbf843a29edfe28829ce5d4
+      internalID: -1049750898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 65
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5d22e24d8374b4ea1a867663355538
+      internalID: -842903503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 65
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f9fac849f649d5a2c6b8ad16a26ad
+      internalID: -1621456212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 47
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87808ccf309e4134972f1603e1d77a8
+      internalID: -141645682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ac48b27e62a429ab5db2cab3453a54
+      internalID: -538620113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 47
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a163c5f44d447bda246071ecc445cb
+      internalID: 540592757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e201ace8bf6454724bfd6ac73e4a9948
+      internalID: -1368710470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143914acf254c4621a357d383d3db5c1
+      internalID: -1372861108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Astaroth_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 45
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf45d453574d4399a15c783e270e9f5
+      internalID: -1435003477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 915b32490ed7540f1b5dce48bb9ca241
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Astaroth_6: -579843046
+      Arcade - Ghouls n Ghosts - Astaroth_18: 112919738
+      Arcade - Ghouls n Ghosts - Astaroth_15: -1368710470
+      Arcade - Ghouls n Ghosts - Astaroth_37: -1153324294
+      Arcade - Ghouls n Ghosts - Astaroth_27: 922142307
+      Arcade - Ghouls n Ghosts - Astaroth_5: 321904776
+      Arcade - Ghouls n Ghosts - Astaroth_12: -141645682
+      Arcade - Ghouls n Ghosts - Astaroth_25: -1564663817
+      Arcade - Ghouls n Ghosts - Astaroth_42: -350736315
+      Arcade - Ghouls n Ghosts - Astaroth_1: -2088769594
+      Arcade - Ghouls n Ghosts - Astaroth_7: 877739714
+      Arcade - Ghouls n Ghosts - Astaroth_30: -749423767
+      Arcade - Ghouls n Ghosts - Astaroth_32: -608407235
+      Arcade - Ghouls n Ghosts - Astaroth_23: -1186439805
+      Arcade - Ghouls n Ghosts - Astaroth_13: -538620113
+      Arcade - Ghouls n Ghosts - Astaroth_43: -1057567105
+      Arcade - Ghouls n Ghosts - Astaroth_33: -1693823957
+      Arcade - Ghouls n Ghosts - Astaroth_24: -2047833479
+      Arcade - Ghouls n Ghosts - Astaroth_17: -1435003477
+      Arcade - Ghouls n Ghosts - Astaroth_10: -1445979354
+      Arcade - Ghouls n Ghosts - Astaroth_14: 540592757
+      Arcade - Ghouls n Ghosts - Astaroth_8: -1049750898
+      Arcade - Ghouls n Ghosts - Astaroth_9: -842903503
+      Arcade - Ghouls n Ghosts - Astaroth_16: -1372861108
+      Arcade - Ghouls n Ghosts - Astaroth_4: -2093502562
+      Arcade - Ghouls n Ghosts - Astaroth_35: 528947125
+      Arcade - Ghouls n Ghosts - Astaroth_26: 334975075
+      Arcade - Ghouls n Ghosts - Astaroth_39: -633362383
+      Arcade - Ghouls n Ghosts - Astaroth_22: 940678118
+      Arcade - Ghouls n Ghosts - Astaroth_19: 578535123
+      Arcade - Ghouls n Ghosts - Astaroth_41: 1389930896
+      Arcade - Ghouls n Ghosts - Astaroth_28: -1937485523
+      Arcade - Ghouls n Ghosts - Astaroth_0: -1061287615
+      Arcade - Ghouls n Ghosts - Astaroth_20: -744138992
+      Arcade - Ghouls n Ghosts - Astaroth_21: 1109199710
+      Arcade - Ghouls n Ghosts - Astaroth_11: -1621456212
+      Arcade - Ghouls n Ghosts - Astaroth_45: -1374196661
+      Arcade - Ghouls n Ghosts - Astaroth_29: 1253462216
+      Arcade - Ghouls n Ghosts - Astaroth_38: -323765071
+      Arcade - Ghouls n Ghosts - Astaroth_40: -541069067
+      Arcade - Ghouls n Ghosts - Astaroth_2: 1276395877
+      Arcade - Ghouls n Ghosts - Astaroth_31: 446535431
+      Arcade - Ghouls n Ghosts - Astaroth_36: 1161843262
+      Arcade - Ghouls n Ghosts - Astaroth_3: -982693952
+      Arcade - Ghouls n Ghosts - Astaroth_44: -1813050803
+      Arcade - Ghouls n Ghosts - Astaroth_34: -948600890
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

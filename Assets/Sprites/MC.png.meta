@@ -1,0 +1,4259 @@
+fileFormatVersion: 2
+guid: 114f1b292cf7a4ffc8ec83d03fe103cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1032
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de80cd2f04ae4fb5959d098b7395bd3
+      internalID: 758007605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1032
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcb9c9afc8e146649a7282217551503
+      internalID: -29554963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1038
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290840c256a584894a605cfe07b9f12c
+      internalID: -1519574965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1032
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d400bb5b73241aebb7867f4fa2fa02
+      internalID: -1592365847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1032
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a86e5401e564450ac90699cd80ab0f
+      internalID: 420496314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1038
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9273f898c084934bac0093370f432b
+      internalID: -1103787238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1032
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870d414135d74092a5b2c7c699cbdcd
+      internalID: 337727838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 988
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be7e2e966f2409e97dc4081b048a1a
+      internalID: 488945350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 984
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e26fa8841ef4c72882f9e2404e3e38
+      internalID: -1683460154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 992
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cde4629c2a6c4b70b9f053d1768ba72
+      internalID: -2003447289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_18
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1000
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff6a4c827d7b43c69bf75e0f54247fb
+      internalID: 862259278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 992
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d883a1628d4228aafe64a0c71bf0b
+      internalID: -1995046142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1005
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2d7b3cb49f345179dd2bfdba0ea743
+      internalID: -636264255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1016
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412533f1b6e840889ae506a38395d66
+      internalID: -1122203763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 992
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc7499d588a4ec7abbfcef09371fad
+      internalID: -1929028023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 986
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feadffb3accd0403e88383b3f2f3bf9e
+      internalID: 2040756272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 936
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21925c8d957f4c3581f5d0d560f1cbb
+      internalID: -158800088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 940
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec371dd9938424f18b395e09b9fcf0a0
+      internalID: -269230620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 939
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205b7762ffae3462f8a29e3780dd7a9d
+      internalID: -554669602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 936
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184302cb409fc44f6947b7e6f987a84a
+      internalID: 1424589592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 936
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69d12f366480427ead19ac2c314387c
+      internalID: 1763958111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 936
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790c77ef1b42e47338ec3c78bfca7ab5
+      internalID: -1952844954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 936
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eaf560ad81349328915d8c514534ae
+      internalID: 1144767873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_33
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 937
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8429f1c0d47349f29279ae1ba86e1c7
+      internalID: 2062235530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_34
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 936
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dabfc6562e5a4086babf8c4cca31a77
+      internalID: -352017121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 942
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2101c27b9e345c193e5652938b5b37
+      internalID: 1805556795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 936
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234dbd8c50f024de7b43d7d70e6f5659
+      internalID: -987338748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 880
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4f8c62642b649e3a62aa4679e4feba
+      internalID: 1660874596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 880
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452691d93c9144fd8739aece2626a64
+      internalID: 13500765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 884
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0e81318d051418e93ae6e6d2d7386e
+      internalID: 739173710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 880
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9996dfc8d5b6b4831bcb8bf669e43e23
+      internalID: 1816587491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_58
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 880
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ddefb0809d45cdac8b44ed07f6a1d
+      internalID: -1189639505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 885
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412e424ababc24fe3924d4ba2c599160
+      internalID: 1870702322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_60
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 880
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e5fa51fb74461eb1f8857009459c6
+      internalID: 408807737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_61
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 848
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466e6157a87648ae93bc877d524aef2
+      internalID: -1852889668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 853
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959948f4bc0de4e9a9b5583372c0aed1
+      internalID: 21393115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 835
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4a1e086ab4b4f6c9f22692740c799b
+      internalID: 1109565345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 834
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b9f4683666c4ccdb54083fab38a142
+      internalID: -1969652982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_65
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 832
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756dba2a42dc94403814362f82a2d8eb
+      internalID: 2112052136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 840
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a5e348d9ae47e38ee585e9f88a353
+      internalID: -847033158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_67
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 840
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56917ff218b64775827016c19867ad7
+      internalID: 528335795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_68
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 864
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e692a0045348465d99d494590cf1dd9
+      internalID: 1951976300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 840
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8372e20f538f4edb8e921feefa9b787
+      internalID: -1122843835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 784
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199f7932b26f64db3918b02049c432ff
+      internalID: 933465117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_71
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 784
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7608c5e92f8aa4843aaef79445cb1415
+      internalID: -76318006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 784
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d768864480e6a42d9b022bd9e626f276
+      internalID: -937281222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_73
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 784
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f59abcf36e94ab1af6a588816251a9
+      internalID: 1524414840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 784
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9091551c1041f4116ae22a9aa7863b85
+      internalID: 2062283424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 784
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852dc1d43228c405ebc3bb3e648790b0
+      internalID: 893959915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_76
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 784
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a2e2b71d44d4bae9772fbf8ff53476
+      internalID: -273004203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_77
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 784
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c607cf498ee4de2b38b06e1634e6b5
+      internalID: 530476044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_78
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 784
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a26aed8c1d64ab3a94d52eb6e275e0
+      internalID: -1705306108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 784
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6523f454e5461fb2bbb8b9ccf18b9
+      internalID: -1777473885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_80
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 784
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ced59cc40a341c6b5fe4497dbcd3b1
+      internalID: 2028270900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_81
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 728
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255be2ddf905c4fae90fb3ed1993e792
+      internalID: 960072050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 728
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58499c6cd34643bf82933738e7ab0bf
+      internalID: 1549044301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 732
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f41ec0bed0945ea8e668402b967e3e
+      internalID: 921969831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_89
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 728
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86785166df0e04618a97038aa8109af7
+      internalID: 1439661647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_90
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 728
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f4585a4f79d4047ba218f508e577ec
+      internalID: 1133185856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_91
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 733
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f9d50e78ef948a79b9d8b0d1a5fd23
+      internalID: -1148364405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_92
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 728
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad45e51664545b6bd9940cf43ef9df
+      internalID: 249412523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_93
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 701
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e76486ee73b46fdacfb5f3288d9718
+      internalID: 168240933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_94
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 712
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40213c2a7bcc4ea590dd9d5ae3f83d3
+      internalID: -1954328432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_95
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 688
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206f419319c6a4731826dbe6bcb28483
+      internalID: -371915651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_96
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 683
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb730f5ca8b44ff19e9285268fdf386
+      internalID: -1273707054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 682
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0bf2c1dd1a4737889f39066de020e
+      internalID: -353631078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_98
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 680
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871d22fba900b434b9e616cc3862cf5d
+      internalID: -59919090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_99
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 688
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6246c8ae2d34c9ca3ce79787b0807b
+      internalID: -1808081729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_100
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 696
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f239da17449be441e8acef887fe065c0
+      internalID: -1033369210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_101
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 688
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391d9dd8d8824f3db64429887212610
+      internalID: 1096727596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 632
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb355be41a3c4c89819336f2af34636
+      internalID: 554845518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_103
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 632
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305814b3a1741a292285261596d89d
+      internalID: -1716869940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_104
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 632
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6121018b6e40e09b613d9edd7cf71
+      internalID: 1156628460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_105
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 632
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b102fe1bd2984da286ee58a73986637
+      internalID: -1181859637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_106
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 632
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54052993005e0477ab01406982774b6e
+      internalID: -714377373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 632
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf085614622944b590ca9f060e17e90
+      internalID: 201430431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_108
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 632
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653cb06219584f27a2b2e067fc9e3e0
+      internalID: -439972357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_109
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 632
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a115a37e8df48809bc11e715ec2660
+      internalID: -1065237588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_110
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 632
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550904c0eae864185907679c1889f915
+      internalID: 2004737967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_111
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 632
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acccbdf1d178645a29d2bbe8a6364f58
+      internalID: -1749395417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_112
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 632
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff2a830d8e74d79afa7499eeebbe65
+      internalID: -1969225087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd68a61a64c45f3896d07a48b7966a
+      internalID: -1019884486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_114
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 632
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f8386e824924b85abf9ec4d3fa4261
+      internalID: -680204189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_115
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 592
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d151d785a4534b95affc52f78451e77
+      internalID: 72943686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_116
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 600
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5528f1e19b28e42dc9f6475b34eec920
+      internalID: 1526499719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 606
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039885af119e3463181001b723c3a084
+      internalID: -2021694770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_118
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 604
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481279b7031c0470caa43eb87693a961
+      internalID: 839713375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_119
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 613
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0d25a33ab5a40ae82f7312fd9ba213
+      internalID: 1338983210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_120
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 611
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7a7240fc424dd496c23ec5ba91ff7
+      internalID: -294407179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_121
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 552
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f113d99afa4f4f96a46373af0576da1
+      internalID: -1487528322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_122
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 552
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445331fc4b6b6443a8f9eedb0891198c
+      internalID: 1906523458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 552
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718f4ff3c57b44469a5f2fce42182e0b
+      internalID: 576884766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_124
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 552
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed9b65f738ed4bfe9672a045c9e4156
+      internalID: 2133160538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 552
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfc4a283ba0946d591d982f6e01eeee
+      internalID: 661113721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_126
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 555
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab27def9638f478091abfa7b99bcdc5
+      internalID: 642267023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 554
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c6479ea3494a53a83d5ab10270ee5
+      internalID: 1555502492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_128
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 554
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a8d228cfd42436492fb25989505f54
+      internalID: -326062202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_129
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 554
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07e757372d38483a9ce2ab92d78596d
+      internalID: -1607475986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_130
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 557
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5301b90865c324d75aec926cc9ae68a3
+      internalID: 877819674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 552
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d5696f71d2a422e82c99719ffdb96c
+      internalID: 1591028864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_132
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 552
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53491e7f62f848b79ca8f8da51aff0e
+      internalID: 522400300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_133
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 552
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1712e381211429287d0f91783762cb
+      internalID: 612579715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_148
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 504
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97004264777204b579c85d44e12f1e5c
+      internalID: 1103005063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_149
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 504
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bfb14b1fa034040bb26876b44a2e3a
+      internalID: 274937794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_150
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 504
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47925c53690a042568ca536298cec2fb
+      internalID: -928656043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_151
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 504
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2098fd539e54c9b9892eb3391879cd
+      internalID: 1605508222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_152
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 504
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74af3430908f44ad9803e992fcc49995
+      internalID: -1301566392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_153
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 504
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c68ba3bb12f64ad891899a9d09930c4
+      internalID: -1217297706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_154
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 504
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d68ae924d64d23b143cd550527731
+      internalID: -530763909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_155
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 472
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54b8ebd714da434bb88bac2ebbd3abb
+      internalID: 732151248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_156
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 480
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594d9083af7c429ab3406927f2c3387
+      internalID: 50585845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_157
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 472
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219dbdae2907d42b99eaaa999ab6ec12
+      internalID: -1039976540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_158
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 477
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc906a7b822d944cb90e2219365200f6
+      internalID: -2066797625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_159
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 488
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d444ef0ae62e473383036ea429157b7
+      internalID: 1004711126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_160
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 464
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe93469f7c0e4bc1a830c65ff0ab68e
+      internalID: 371264175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_161
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 459
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0f7ad97eabc46c9884b42f78f0830e
+      internalID: 26894044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_162
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 459
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ab1b0c028f0494c9c555a0f28c6fb7
+      internalID: -1572763542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_163
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 456
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466573f47e9a645e78251387e346d4fc
+      internalID: 993651246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_164
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 408
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e9897c15bbf4d279a62c105c39ef2e
+      internalID: 1836720954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_165
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 408
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a172a9df2cea44fa4b022c0f9bcee1f4
+      internalID: 382633261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_166
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 408
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306fcc3f99cd6461eb231d97618fa95c
+      internalID: 119084974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_167
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 408
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d596f4ec3834445c7bd55944932862d6
+      internalID: 2020502200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_168
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 408
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3562d1821b0c84693a80d91df5c5d3d8
+      internalID: -1149270314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_169
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 408
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca609c47932c64abeb7bca05968dbeaa
+      internalID: 1469509146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_170
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 408
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f1fefcd70cd461a9d7d63ea83b6931
+      internalID: 2141511215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_171
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 408
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab57ba11b36e4688b1386f4d3e0a5bd
+      internalID: -335242853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_210
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 360
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de26255848a6b40168a1b031e2a7fcc6
+      internalID: -923089331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_211
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 360
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8784537e7fd479ba8240eb3dea760c
+      internalID: -1318019342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_212
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6900e3c0f0c1246088d870b1d2192d4b
+      internalID: 301115900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_213
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 360
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf5423d16677486bbb19948f6a4d85e
+      internalID: 1527473014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_214
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 360
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cef5e9242904177b62e807cb54be06
+      internalID: -1034492021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_215
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 360
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3751296dd33d946bea05165a60c71fd8
+      internalID: 134671450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_216
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 360
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659ba474449674653b01217069806a45
+      internalID: 681387899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_259
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 307
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5910a69deb7d04b5cb32d2899d1a295b
+      internalID: -270800118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_260
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 307
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1b69026d36d4641b85f347a43187b7
+      internalID: -1615904812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_263
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 306
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d89f6fcca9b44c188827d9a3befe56
+      internalID: 1146892777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_264
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 304
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc4d972557774f509e99e46ff286008
+      internalID: -180944211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_265
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cacd9537f8414a159e130e14a52e505
+      internalID: -83655183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_277
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 244
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ed42a540224997a4a49255fe598c6
+      internalID: 1104632028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_278
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 247
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33eff328a53415cbc628cc49d16ba7
+      internalID: -469160932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_279
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 250
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6049b55723c4546e09cf8755c090530c
+      internalID: 2091981600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_280
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 248
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38bb4aaf49442d687e1d5747f3c4bc
+      internalID: -1999888972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_281
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 249
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0330796764f4b2bae69ae20c7a79da
+      internalID: -1799034902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_282
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 253
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f374f9ae2630486a8af1dcabebb18f8
+      internalID: -842001939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_283
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 248
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed4ddcfd14f41048dd11c44e2797ac
+      internalID: 314771749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_293
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 248
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c501dec0159148ceb61b2c27db9918a
+      internalID: -2072520368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_294
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 257
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0e85f6bc7dc4655a5d5eb2f24aab21
+      internalID: 768964447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_295
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 257
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24399d565a2f24527a4104037550893f
+      internalID: 1634729875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_296
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 259
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2439469002cf4a56b54d0b0a4df5efd
+      internalID: -1090439443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_297
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 259
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b699c5a05b142a1992955c370d77ea
+      internalID: -1039820947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_298
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 176
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58653e00b22de454e88bbc5ca74c35a3
+      internalID: 286471046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_299
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 184
+        width: 102
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa312be001b954e639930249ee99757d
+      internalID: 237703339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_300
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 191
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b7b38467dfd4189ba01f22bdf5a77b
+      internalID: 476293403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_301
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 183
+        width: 104
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58497ae2d2ee849b2b8b244d24b92774
+      internalID: 300242228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_302
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 184
+        width: 105
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f950042a5f9242b6b3cd4a013225615
+      internalID: 1460008862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_303
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 114
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbe022e42f7247c8ad60e1509d7ba2d
+      internalID: 1555159950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_305
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 116
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0be86f74a848afa14fb79e767f1fa
+      internalID: 2009362155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_306
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 116
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa4cea659b724ef3b69cd2b09a94927
+      internalID: -1017073012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_307
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 116
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327806afddac46908fcbdd9f168315e
+      internalID: 1094281644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_328
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf39efa1060141b2aa04a6aa97550a2
+      internalID: 1827541240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_329
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef72b56d2b09446dabfec6c6996fd9a6
+      internalID: 412625023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_330
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab056d9feb03a42bd9e71d7b00a0de07
+      internalID: -322465971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_331
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 56
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4884ff3b80ad4e2d95d0a4f5293f206
+      internalID: -1974664741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_332
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 57
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba3079d4784439a85eb002a0cef14d
+      internalID: -1434145636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_333
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 56
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9870a45f1ea47819acca1a3a19e335
+      internalID: 495829711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_334
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 56
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81511aadc87044e498b11312123087ae
+      internalID: -1061434264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_335
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 56
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f1f9150ab24caab7221a77f32e9bc
+      internalID: -244941818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_336
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 56
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab89cb579953747409f203aff5c2a180
+      internalID: 567324972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_343
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 56
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4eed65820f944b9a7a068e9cbe4be0
+      internalID: -1605663568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_344
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 31
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e8f3847a7da49658b1f54d2b6b8532
+      internalID: -542857535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_356
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a61f04587d944d2800f7c0535603d9
+      internalID: -1945789272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_357
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d783e209d9584f76bf6bc0258ff7400
+      internalID: 362968026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_358
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 8
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738c1bd7213614c358ca6db29c625a91
+      internalID: 1428321353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_359
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fe0d48cf61d46bb98acccb4815efbe
+      internalID: 1926203134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_360
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16494d38691fa4e40ad1bf5a91c5fb61
+      internalID: -963176566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_361
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057ce499d7a40437297f03907b305215
+      internalID: -662600984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_362
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f288b91d9f7c440db396b8d923732fe
+      internalID: -1970213797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_363
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 8
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cc7bbe92c454452a0610f2f4882717
+      internalID: -1225552784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Arthur & Princess_364
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 17
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7e73768f1f7423bae6063826f03dbe
+      internalID: -1556506523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f20ab814cc3df43d2bda5f3180f9c1b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Arthur & Princess_33: 2062235530
+      Arcade - Ghouls n Ghosts - Arthur & Princess_50: -1001529835
+      Arcade - Ghouls n Ghosts - Arthur & Princess_277: 1104632028
+      Arcade - Ghouls n Ghosts - Arthur & Princess_363: -1225552784
+      Arcade - Ghouls n Ghosts - Arthur & Princess_173: 1556099089
+      Arcade - Ghouls n Ghosts - Arthur & Princess_196: 1630781674
+      Arcade - Ghouls n Ghosts - Arthur & Princess_45: -1214563370
+      Arcade - Ghouls n Ghosts - Arthur & Princess_29: 1424589592
+      Arcade - Ghouls n Ghosts - Arthur & Princess_355: 1576202696
+      Arcade - Ghouls n Ghosts - Arthur & Princess_186: 1354598810
+      Arcade - Ghouls n Ghosts - Arthur & Princess_119: 1338983210
+      Arcade - Ghouls n Ghosts - Arthur & Princess_330: -322465971
+      Arcade - Ghouls n Ghosts - Arthur & Princess_138: -323182625
+      Arcade - Ghouls n Ghosts - Arthur & Princess_72: -937281222
+      Arcade - Ghouls n Ghosts - Arthur & Princess_85: 64523601
+      Arcade - Ghouls n Ghosts - Arthur & Princess_233: 760663305
+      Arcade - Ghouls n Ghosts - Arthur & Princess_49: -1226129717
+      Arcade - Ghouls n Ghosts - Arthur & Princess_293: -2072520368
+      Arcade - Ghouls n Ghosts - Arthur & Princess_21: -1122203763
+      Arcade - Ghouls n Ghosts - Arthur & Princess_59: 1870702322
+      Arcade - Ghouls n Ghosts - Arthur & Princess_338: -716010001
+      Arcade - Ghouls n Ghosts - Arthur & Princess_332: -1434145636
+      Arcade - Ghouls n Ghosts - Arthur & Princess_17: -2003447289
+      Arcade - Ghouls n Ghosts - Arthur & Princess_270: -890245091
+      Arcade - Ghouls n Ghosts - Arthur & Princess_178: 1973572748
+      Arcade - Ghouls n Ghosts - Arthur & Princess_174: 831649200
+      Arcade - Ghouls n Ghosts - Arthur & Princess_250: 1373623817
+      Arcade - Ghouls n Ghosts - Arthur & Princess_118: 839713375
+      Arcade - Ghouls n Ghosts - Arthur & Princess_279: 2091981600
+      Arcade - Ghouls n Ghosts - Arthur & Princess_329: 412625023
+      Arcade - Ghouls n Ghosts - Arthur & Princess_157: -1039976540
+      Arcade - Ghouls n Ghosts - Arthur & Princess_199: 1114041998
+      Arcade - Ghouls n Ghosts - Arthur & Princess_340: -1818611211
+      Arcade - Ghouls n Ghosts - Arthur & Princess_201: -1920790284
+      Arcade - Ghouls n Ghosts - Arthur & Princess_195: 157686965
+      Arcade - Ghouls n Ghosts - Arthur & Princess_57: 1816587491
+      Arcade - Ghouls n Ghosts - Arthur & Princess_339: -744612277
+      Arcade - Ghouls n Ghosts - Arthur & Princess_258: -1964293314
+      Arcade - Ghouls n Ghosts - Arthur & Princess_103: -1716869940
+      Arcade - Ghouls n Ghosts - Arthur & Princess_289: 1798075620
+      Arcade - Ghouls n Ghosts - Arthur & Princess_358: 1428321353
+      Arcade - Ghouls n Ghosts - Arthur & Princess_350: -2098770039
+      Arcade - Ghouls n Ghosts - Arthur & Princess_251: -1851017006
+      Arcade - Ghouls n Ghosts - Arthur & Princess_190: 783302186
+      Arcade - Ghouls n Ghosts - Arthur & Princess_212: 301115900
+      Arcade - Ghouls n Ghosts - Arthur & Princess_218: 427314189
+      Arcade - Ghouls n Ghosts - Arthur & Princess_96: -1273707054
+      Arcade - Ghouls n Ghosts - Arthur & Princess_10: -1519574965
+      Arcade - Ghouls n Ghosts - Arthur & Princess_207: 1037552858
+      Arcade - Ghouls n Ghosts - Arthur & Princess_136: -1897775046
+      Arcade - Ghouls n Ghosts - Arthur & Princess_230: -1194291808
+      Arcade - Ghouls n Ghosts - Arthur & Princess_121: -1487528322
+      Arcade - Ghouls n Ghosts - Arthur & Princess_245: 124572307
+      Arcade - Ghouls n Ghosts - Arthur & Princess_108: -439972357
+      Arcade - Ghouls n Ghosts - Arthur & Princess_352: 1031565108
+      Arcade - Ghouls n Ghosts - Arthur & Princess_79: -1777473885
+      Arcade - Ghouls n Ghosts - Arthur & Princess_113: -1019884486
+      Arcade - Ghouls n Ghosts - Arthur & Princess_106: -714377373
+      Arcade - Ghouls n Ghosts - Arthur & Princess_185: -2032103138
+      Arcade - Ghouls n Ghosts - Arthur & Princess_284: 1313103825
+      Arcade - Ghouls n Ghosts - Arthur & Princess_318: 725669356
+      Arcade - Ghouls n Ghosts - Arthur & Princess_95: -371915651
+      Arcade - Ghouls n Ghosts - Arthur & Princess_86: -1976839430
+      Arcade - Ghouls n Ghosts - Arthur & Princess_105: -1181859637
+      Arcade - Ghouls n Ghosts - Arthur & Princess_229: 115851166
+      Arcade - Ghouls n Ghosts - Arthur & Princess_361: -662600984
+      Arcade - Ghouls n Ghosts - Arthur & Princess_323: 1117150614
+      Arcade - Ghouls n Ghosts - Arthur & Princess_2: 639113905
+      Arcade - Ghouls n Ghosts - Arthur & Princess_115: 72943686
+      Arcade - Ghouls n Ghosts - Arthur & Princess_278: -469160932
+      Arcade - Ghouls n Ghosts - Arthur & Princess_297: -1039820947
+      Arcade - Ghouls n Ghosts - Arthur & Princess_327: -1667015365
+      Arcade - Ghouls n Ghosts - Arthur & Princess_237: -648907258
+      Arcade - Ghouls n Ghosts - Arthur & Princess_177: 1814941607
+      Arcade - Ghouls n Ghosts - Arthur & Princess_317: -1125419794
+      Arcade - Ghouls n Ghosts - Arthur & Princess_267: 956868063
+      Arcade - Ghouls n Ghosts - Arthur & Princess_131: 1591028864
+      Arcade - Ghouls n Ghosts - Arthur & Princess_8: 758007605
+      Arcade - Ghouls n Ghosts - Arthur & Princess_202: -1455817337
+      Arcade - Ghouls n Ghosts - Arthur & Princess_75: 893959915
+      Arcade - Ghouls n Ghosts - Arthur & Princess_19: -1995046142
+      Arcade - Ghouls n Ghosts - Arthur & Princess_280: -1999888972
+      Arcade - Ghouls n Ghosts - Arthur & Princess_83: -714389407
+      Arcade - Ghouls n Ghosts - Arthur & Princess_326: -1126069707
+      Arcade - Ghouls n Ghosts - Arthur & Princess_155: 732151248
+      Arcade - Ghouls n Ghosts - Arthur & Princess_194: -602122461
+      Arcade - Ghouls n Ghosts - Arthur & Princess_286: 1430721494
+      Arcade - Ghouls n Ghosts - Arthur & Princess_342: 1465747599
+      Arcade - Ghouls n Ghosts - Arthur & Princess_241: 447627617
+      Arcade - Ghouls n Ghosts - Arthur & Princess_181: -1485058198
+      Arcade - Ghouls n Ghosts - Arthur & Princess_130: 877819674
+      Arcade - Ghouls n Ghosts - Arthur & Princess_91: -1148364405
+      Arcade - Ghouls n Ghosts - Arthur & Princess_337: 1175995871
+      Arcade - Ghouls n Ghosts - Arthur & Princess_48: -1475754521
+      Arcade - Ghouls n Ghosts - Arthur & Princess_325: -1390998791
+      Arcade - Ghouls n Ghosts - Arthur & Princess_302: 1460008862
+      Arcade - Ghouls n Ghosts - Arthur & Princess_356: -1945789272
+      Arcade - Ghouls n Ghosts - Arthur & Princess_93: 168240933
+      Arcade - Ghouls n Ghosts - Arthur & Princess_1: -888719415
+      Arcade - Ghouls n Ghosts - Arthur & Princess_307: 1094281644
+      Arcade - Ghouls n Ghosts - Arthur & Princess_32: 1144767873
+      Arcade - Ghouls n Ghosts - Arthur & Princess_272: -50634197
+      Arcade - Ghouls n Ghosts - Arthur & Princess_331: -1974664741
+      Arcade - Ghouls n Ghosts - Arthur & Princess_175: -292676073
+      Arcade - Ghouls n Ghosts - Arthur & Princess_204: 1568681249
+      Arcade - Ghouls n Ghosts - Arthur & Princess_84: 206827008
+      Arcade - Ghouls n Ghosts - Arthur & Princess_120: -294407179
+      Arcade - Ghouls n Ghosts - Arthur & Princess_225: 148481435
+      Arcade - Ghouls n Ghosts - Arthur & Princess_364: -1556506523
+      Arcade - Ghouls n Ghosts - Arthur & Princess_193: 424625285
+      Arcade - Ghouls n Ghosts - Arthur & Princess_353: 1939218853
+      Arcade - Ghouls n Ghosts - Arthur & Princess_171: -335242853
+      Arcade - Ghouls n Ghosts - Arthur & Princess_145: 1325315804
+      Arcade - Ghouls n Ghosts - Arthur & Princess_243: -837064947
+      Arcade - Ghouls n Ghosts - Arthur & Princess_140: 109921887
+      Arcade - Ghouls n Ghosts - Arthur & Princess_268: 189279287
+      Arcade - Ghouls n Ghosts - Arthur & Princess_348: 290590137
+      Arcade - Ghouls n Ghosts - Arthur & Princess_328: 1827541240
+      Arcade - Ghouls n Ghosts - Arthur & Princess_52: -2050307378
+      Arcade - Ghouls n Ghosts - Arthur & Princess_158: -2066797625
+      Arcade - Ghouls n Ghosts - Arthur & Princess_160: 371264175
+      Arcade - Ghouls n Ghosts - Arthur & Princess_359: 1926203134
+      Arcade - Ghouls n Ghosts - Arthur & Princess_0: -588769135
+      Arcade - Ghouls n Ghosts - Arthur & Princess_124: 2133160538
+      Arcade - Ghouls n Ghosts - Arthur & Princess_64: -1969652982
+      Arcade - Ghouls n Ghosts - Arthur & Princess_180: 2047994808
+      Arcade - Ghouls n Ghosts - Arthur & Princess_146: -1456628904
+      Arcade - Ghouls n Ghosts - Arthur & Princess_34: -352017121
+      Arcade - Ghouls n Ghosts - Arthur & Princess_66: -847033158
+      Arcade - Ghouls n Ghosts - Arthur & Princess_151: 1605508222
+      Arcade - Ghouls n Ghosts - Arthur & Princess_170: 2141511215
+      Arcade - Ghouls n Ghosts - Arthur & Princess_172: 757662716
+      Arcade - Ghouls n Ghosts - Arthur & Princess_156: 50585845
+      Arcade - Ghouls n Ghosts - Arthur & Princess_23: 2040756272
+      Arcade - Ghouls n Ghosts - Arthur & Princess_239: -308665445
+      Arcade - Ghouls n Ghosts - Arthur & Princess_70: 933465117
+      Arcade - Ghouls n Ghosts - Arthur & Princess_63: 1109565345
+      Arcade - Ghouls n Ghosts - Arthur & Princess_265: -83655183
+      Arcade - Ghouls n Ghosts - Arthur & Princess_127: 1555502492
+      Arcade - Ghouls n Ghosts - Arthur & Princess_215: 134671450
+      Arcade - Ghouls n Ghosts - Arthur & Princess_13: -1103787238
+      Arcade - Ghouls n Ghosts - Arthur & Princess_7: 371078158
+      Arcade - Ghouls n Ghosts - Arthur & Princess_3: -698940498
+      Arcade - Ghouls n Ghosts - Arthur & Princess_303: 1555159950
+      Arcade - Ghouls n Ghosts - Arthur & Princess_301: 300242228
+      Arcade - Ghouls n Ghosts - Arthur & Princess_6: -144528188
+      Arcade - Ghouls n Ghosts - Arthur & Princess_73: 1524414840
+      Arcade - Ghouls n Ghosts - Arthur & Princess_319: -1822130276
+      Arcade - Ghouls n Ghosts - Arthur & Princess_238: 418505971
+      Arcade - Ghouls n Ghosts - Arthur & Princess_299: 237703339
+      Arcade - Ghouls n Ghosts - Arthur & Princess_110: 2004737967
+      Arcade - Ghouls n Ghosts - Arthur & Princess_132: 522400300
+      Arcade - Ghouls n Ghosts - Arthur & Princess_354: 1186331800
+      Arcade - Ghouls n Ghosts - Arthur & Princess_217: -2063821450
+      Arcade - Ghouls n Ghosts - Arthur & Princess_349: -1176075446
+      Arcade - Ghouls n Ghosts - Arthur & Princess_44: -1484077432
+      Arcade - Ghouls n Ghosts - Arthur & Princess_249: -1648138153
+      Arcade - Ghouls n Ghosts - Arthur & Princess_334: -1061434264
+      Arcade - Ghouls n Ghosts - Arthur & Princess_78: -1705306108
+      Arcade - Ghouls n Ghosts - Arthur & Princess_351: -232093014
+      Arcade - Ghouls n Ghosts - Arthur & Princess_192: 1192656078
+      Arcade - Ghouls n Ghosts - Arthur & Princess_159: 1004711126
+      Arcade - Ghouls n Ghosts - Arthur & Princess_74: 2062283424
+      Arcade - Ghouls n Ghosts - Arthur & Princess_90: 1133185856
+      Arcade - Ghouls n Ghosts - Arthur & Princess_234: 1878648635
+      Arcade - Ghouls n Ghosts - Arthur & Princess_292: 38817462
+      Arcade - Ghouls n Ghosts - Arthur & Princess_161: 26894044
+      Arcade - Ghouls n Ghosts - Arthur & Princess_347: 532731973
+      Arcade - Ghouls n Ghosts - Arthur & Princess_54: 1660874596
+      Arcade - Ghouls n Ghosts - Arthur & Princess_362: -1970213797
+      Arcade - Ghouls n Ghosts - Arthur & Princess_100: -1033369210
+      Arcade - Ghouls n Ghosts - Arthur & Princess_285: 854952517
+      Arcade - Ghouls n Ghosts - Arthur & Princess_294: 768964447
+      Arcade - Ghouls n Ghosts - Arthur & Princess_222: 889158608
+      Arcade - Ghouls n Ghosts - Arthur & Princess_305: 2009362155
+      Arcade - Ghouls n Ghosts - Arthur & Princess_137: -1129035075
+      Arcade - Ghouls n Ghosts - Arthur & Princess_335: -244941818
+      Arcade - Ghouls n Ghosts - Arthur & Princess_26: 670096835
+      Arcade - Ghouls n Ghosts - Arthur & Princess_114: -680204189
+      Arcade - Ghouls n Ghosts - Arthur & Princess_311: 1193829605
+      Arcade - Ghouls n Ghosts - Arthur & Princess_16: -1683460154
+      Arcade - Ghouls n Ghosts - Arthur & Princess_357: 362968026
+      Arcade - Ghouls n Ghosts - Arthur & Princess_117: -2021694770
+      Arcade - Ghouls n Ghosts - Arthur & Princess_38: 819689777
+      Arcade - Ghouls n Ghosts - Arthur & Princess_144: -68487651
+      Arcade - Ghouls n Ghosts - Arthur & Princess_166: 119084974
+      Arcade - Ghouls n Ghosts - Arthur & Princess_62: 21393115
+      Arcade - Ghouls n Ghosts - Arthur & Princess_176: 272050642
+      Arcade - Ghouls n Ghosts - Arthur & Princess_344: -542857535
+      Arcade - Ghouls n Ghosts - Arthur & Princess_41: -1123447023
+      Arcade - Ghouls n Ghosts - Arthur & Princess_107: 201430431
+      Arcade - Ghouls n Ghosts - Arthur & Princess_179: 2060737990
+      Arcade - Ghouls n Ghosts - Arthur & Princess_39: -390794255
+      Arcade - Ghouls n Ghosts - Arthur & Princess_200: 528450063
+      Arcade - Ghouls n Ghosts - Arthur & Princess_133: 612579715
+      Arcade - Ghouls n Ghosts - Arthur & Princess_246: 698036022
+      Arcade - Ghouls n Ghosts - Arthur & Princess_227: 1691036890
+      Arcade - Ghouls n Ghosts - Arthur & Princess_219: -1399826144
+      Arcade - Ghouls n Ghosts - Arthur & Princess_153: -1217297706
+      Arcade - Ghouls n Ghosts - Arthur & Princess_112: -1969225087
+      Arcade - Ghouls n Ghosts - Arthur & Princess_269: 58932927
+      Arcade - Ghouls n Ghosts - Arthur & Princess_314: -1592951783
+      Arcade - Ghouls n Ghosts - Arthur & Princess_61: -1852889668
+      Arcade - Ghouls n Ghosts - Arthur & Princess_271: -1241391985
+      Arcade - Ghouls n Ghosts - Arthur & Princess_320: -304020557
+      Arcade - Ghouls n Ghosts - Arthur & Princess_65: 2112052136
+      Arcade - Ghouls n Ghosts - Arthur & Princess_216: 681387899
+      Arcade - Ghouls n Ghosts - Arthur & Princess_12: 420496314
+      Arcade - Ghouls n Ghosts - Arthur & Princess_123: 576884766
+      Arcade - Ghouls n Ghosts - Arthur & Princess_244: 1642894602
+      Arcade - Ghouls n Ghosts - Arthur & Princess_152: -1301566392
+      Arcade - Ghouls n Ghosts - Arthur & Princess_281: -1799034902
+      Arcade - Ghouls n Ghosts - Arthur & Princess_35: 1805556795
+      Arcade - Ghouls n Ghosts - Arthur & Princess_223: -1322181214
+      Arcade - Ghouls n Ghosts - Arthur & Princess_11: -1592365847
+      Arcade - Ghouls n Ghosts - Arthur & Princess_263: 1146892777
+      Arcade - Ghouls n Ghosts - Arthur & Princess_43: 551497687
+      Arcade - Ghouls n Ghosts - Arthur & Princess_58: -1189639505
+      Arcade - Ghouls n Ghosts - Arthur & Princess_89: 1439661647
+      Arcade - Ghouls n Ghosts - Arthur & Princess_99: -1808081729
+      Arcade - Ghouls n Ghosts - Arthur & Princess_53: 1197611182
+      Arcade - Ghouls n Ghosts - Arthur & Princess_141: 818965972
+      Arcade - Ghouls n Ghosts - Arthur & Princess_231: -1486794458
+      Arcade - Ghouls n Ghosts - Arthur & Princess_76: -273004203
+      Arcade - Ghouls n Ghosts - Arthur & Princess_304: 105336664
+      Arcade - Ghouls n Ghosts - Arthur & Princess_259: -270800118
+      Arcade - Ghouls n Ghosts - Arthur & Princess_321: -995411036
+      Arcade - Ghouls n Ghosts - Arthur & Princess_82: 1117705942
+      Arcade - Ghouls n Ghosts - Arthur & Princess_31: -1952844954
+      Arcade - Ghouls n Ghosts - Arthur & Princess_46: -1765432542
+      Arcade - Ghouls n Ghosts - Arthur & Princess_150: -928656043
+      Arcade - Ghouls n Ghosts - Arthur & Princess_220: -1766594304
+      Arcade - Ghouls n Ghosts - Arthur & Princess_346: 9794321
+      Arcade - Ghouls n Ghosts - Arthur & Princess_147: -1053473659
+      Arcade - Ghouls n Ghosts - Arthur & Princess_206: 135481312
+      Arcade - Ghouls n Ghosts - Arthur & Princess_260: -1615904812
+      Arcade - Ghouls n Ghosts - Arthur & Princess_122: 1906523458
+      Arcade - Ghouls n Ghosts - Arthur & Princess_276: -59669254
+      Arcade - Ghouls n Ghosts - Arthur & Princess_261: -1693618993
+      Arcade - Ghouls n Ghosts - Arthur & Princess_210: -923089331
+      Arcade - Ghouls n Ghosts - Arthur & Princess_9: -29554963
+      Arcade - Ghouls n Ghosts - Arthur & Princess_224: 294221659
+      Arcade - Ghouls n Ghosts - Arthur & Princess_226: -658847104
+      Arcade - Ghouls n Ghosts - Arthur & Princess_148: 1103005063
+      Arcade - Ghouls n Ghosts - Arthur & Princess_183: 576069717
+      Arcade - Ghouls n Ghosts - Arthur & Princess_300: 476293403
+      Arcade - Ghouls n Ghosts - Arthur & Princess_313: 2074081550
+      Arcade - Ghouls n Ghosts - Arthur & Princess_295: 1634729875
+      Arcade - Ghouls n Ghosts - Arthur & Princess_291: -39244322
+      Arcade - Ghouls n Ghosts - Arthur & Princess_290: 94806784
+      Arcade - Ghouls n Ghosts - Arthur & Princess_135: 179353822
+      Arcade - Ghouls n Ghosts - Arthur & Princess_27: -554669602
+      Arcade - Ghouls n Ghosts - Arthur & Princess_316: -80317008
+      Arcade - Ghouls n Ghosts - Arthur & Princess_18: 862259278
+      Arcade - Ghouls n Ghosts - Arthur & Princess_4: 978985572
+      Arcade - Ghouls n Ghosts - Arthur & Princess_187: 2049181892
+      Arcade - Ghouls n Ghosts - Arthur & Princess_143: -142008618
+      Arcade - Ghouls n Ghosts - Arthur & Princess_165: 382633261
+      Arcade - Ghouls n Ghosts - Arthur & Princess_188: -1514711566
+      Arcade - Ghouls n Ghosts - Arthur & Princess_296: -1090439443
+      Arcade - Ghouls n Ghosts - Arthur & Princess_22: -1929028023
+      Arcade - Ghouls n Ghosts - Arthur & Princess_80: 2028270900
+      Arcade - Ghouls n Ghosts - Arthur & Princess_298: 286471046
+      Arcade - Ghouls n Ghosts - Arthur & Princess_308: 1677957585
+      Arcade - Ghouls n Ghosts - Arthur & Princess_360: -963176566
+      Arcade - Ghouls n Ghosts - Arthur & Princess_274: -1741400173
+      Arcade - Ghouls n Ghosts - Arthur & Princess_68: 1951976300
+      Arcade - Ghouls n Ghosts - Arthur & Princess_71: -76318006
+      Arcade - Ghouls n Ghosts - Arthur & Princess_235: -839884621
+      Arcade - Ghouls n Ghosts - Arthur & Princess_104: 1156628460
+      Arcade - Ghouls n Ghosts - Arthur & Princess_42: -2142130762
+      Arcade - Ghouls n Ghosts - Arthur & Princess_248: 105663042
+      Arcade - Ghouls n Ghosts - Arthur & Princess_345: -291924560
+      Arcade - Ghouls n Ghosts - Arthur & Princess_139: 1670531191
+      Arcade - Ghouls n Ghosts - Arthur & Princess_273: 2110299597
+      Arcade - Ghouls n Ghosts - Arthur & Princess_142: -1054001076
+      Arcade - Ghouls n Ghosts - Arthur & Princess_205: 50106841
+      Arcade - Ghouls n Ghosts - Arthur & Princess_282: -842001939
+      Arcade - Ghouls n Ghosts - Arthur & Princess_214: -1034492021
+      Arcade - Ghouls n Ghosts - Arthur & Princess_322: 1725782724
+      Arcade - Ghouls n Ghosts - Arthur & Princess_257: 2052224426
+      Arcade - Ghouls n Ghosts - Arthur & Princess_40: -987338748
+      Arcade - Ghouls n Ghosts - Arthur & Princess_164: 1836720954
+      Arcade - Ghouls n Ghosts - Arthur & Princess_228: 353796427
+      Arcade - Ghouls n Ghosts - Arthur & Princess_309: 61842964
+      Arcade - Ghouls n Ghosts - Arthur & Princess_116: 1526499719
+      Arcade - Ghouls n Ghosts - Arthur & Princess_162: -1572763542
+      Arcade - Ghouls n Ghosts - Arthur & Princess_69: -1122843835
+      Arcade - Ghouls n Ghosts - Arthur & Princess_102: 554845518
+      Arcade - Ghouls n Ghosts - Arthur & Princess_213: 1527473014
+      Arcade - Ghouls n Ghosts - Arthur & Princess_15: 488945350
+      Arcade - Ghouls n Ghosts - Arthur & Princess_255: -1977061331
+      Arcade - Ghouls n Ghosts - Arthur & Princess_324: -13549754
+      Arcade - Ghouls n Ghosts - Arthur & Princess_254: 1286000554
+      Arcade - Ghouls n Ghosts - Arthur & Princess_310: 2118289113
+      Arcade - Ghouls n Ghosts - Arthur & Princess_56: 739173710
+      Arcade - Ghouls n Ghosts - Arthur & Princess_203: 2036763440
+      Arcade - Ghouls n Ghosts - Arthur & Princess_167: 2020502200
+      Arcade - Ghouls n Ghosts - Arthur & Princess_288: 1421555805
+      Arcade - Ghouls n Ghosts - Arthur & Princess_343: -1605663568
+      Arcade - Ghouls n Ghosts - Arthur & Princess_55: 13500765
+      Arcade - Ghouls n Ghosts - Arthur & Princess_336: 567324972
+      Arcade - Ghouls n Ghosts - Arthur & Princess_87: 1549044301
+      Arcade - Ghouls n Ghosts - Arthur & Princess_189: -1153908291
+      Arcade - Ghouls n Ghosts - Arthur & Princess_287: -984696072
+      Arcade - Ghouls n Ghosts - Arthur & Princess_67: 528335795
+      Arcade - Ghouls n Ghosts - Arthur & Princess_247: 43918367
+      Arcade - Ghouls n Ghosts - Arthur & Princess_275: -1091863913
+      Arcade - Ghouls n Ghosts - Arthur & Princess_25: -269230620
+      Arcade - Ghouls n Ghosts - Arthur & Princess_197: 1753872155
+      Arcade - Ghouls n Ghosts - Arthur & Princess_264: -180944211
+      Arcade - Ghouls n Ghosts - Arthur & Princess_97: -353631078
+      Arcade - Ghouls n Ghosts - Arthur & Princess_24: -158800088
+      Arcade - Ghouls n Ghosts - Arthur & Princess_47: 1384760809
+      Arcade - Ghouls n Ghosts - Arthur & Princess_30: 1763958111
+      Arcade - Ghouls n Ghosts - Arthur & Princess_242: -1336131124
+      Arcade - Ghouls n Ghosts - Arthur & Princess_209: -623805713
+      Arcade - Ghouls n Ghosts - Arthur & Princess_262: 1760536007
+      Arcade - Ghouls n Ghosts - Arthur & Princess_252: -1471734021
+      Arcade - Ghouls n Ghosts - Arthur & Princess_315: -1753098132
+      Arcade - Ghouls n Ghosts - Arthur & Princess_333: 495829711
+      Arcade - Ghouls n Ghosts - Arthur & Princess_126: 642267023
+      Arcade - Ghouls n Ghosts - Arthur & Princess_128: -326062202
+      Arcade - Ghouls n Ghosts - Arthur & Princess_88: 921969831
+      Arcade - Ghouls n Ghosts - Arthur & Princess_51: 313775317
+      Arcade - Ghouls n Ghosts - Arthur & Princess_208: -1926547767
+      Arcade - Ghouls n Ghosts - Arthur & Princess_134: 1564744152
+      Arcade - Ghouls n Ghosts - Arthur & Princess_236: 294604744
+      Arcade - Ghouls n Ghosts - Arthur & Princess_253: -1159022720
+      Arcade - Ghouls n Ghosts - Arthur & Princess_182: 1687879512
+      Arcade - Ghouls n Ghosts - Arthur & Princess_169: 1469509146
+      Arcade - Ghouls n Ghosts - Arthur & Princess_101: 1096727596
+      Arcade - Ghouls n Ghosts - Arthur & Princess_98: -59919090
+      Arcade - Ghouls n Ghosts - Arthur & Princess_81: 960072050
+      Arcade - Ghouls n Ghosts - Arthur & Princess_240: 1340127697
+      Arcade - Ghouls n Ghosts - Arthur & Princess_92: 249412523
+      Arcade - Ghouls n Ghosts - Arthur & Princess_60: 408807737
+      Arcade - Ghouls n Ghosts - Arthur & Princess_184: 1952147998
+      Arcade - Ghouls n Ghosts - Arthur & Princess_77: 530476044
+      Arcade - Ghouls n Ghosts - Arthur & Princess_283: 314771749
+      Arcade - Ghouls n Ghosts - Arthur & Princess_94: -1954328432
+      Arcade - Ghouls n Ghosts - Arthur & Princess_14: 337727838
+      Arcade - Ghouls n Ghosts - Arthur & Princess_111: -1749395417
+      Arcade - Ghouls n Ghosts - Arthur & Princess_125: 661113721
+      Arcade - Ghouls n Ghosts - Arthur & Princess_232: -38804926
+      Arcade - Ghouls n Ghosts - Arthur & Princess_163: 993651246
+      Arcade - Ghouls n Ghosts - Arthur & Princess_129: -1607475986
+      Arcade - Ghouls n Ghosts - Arthur & Princess_109: -1065237588
+      Arcade - Ghouls n Ghosts - Arthur & Princess_312: -1383901215
+      Arcade - Ghouls n Ghosts - Arthur & Princess_221: 651587434
+      Arcade - Ghouls n Ghosts - Arthur & Princess_5: 1951428571
+      Arcade - Ghouls n Ghosts - Arthur & Princess_211: -1318019342
+      Arcade - Ghouls n Ghosts - Arthur & Princess_306: -1017073012
+      Arcade - Ghouls n Ghosts - Arthur & Princess_191: 1283295231
+      Arcade - Ghouls n Ghosts - Arthur & Princess_20: -636264255
+      Arcade - Ghouls n Ghosts - Arthur & Princess_37: 588590820
+      Arcade - Ghouls n Ghosts - Arthur & Princess_198: 1065718160
+      Arcade - Ghouls n Ghosts - Arthur & Princess_154: -530763909
+      Arcade - Ghouls n Ghosts - Arthur & Princess_149: 274937794
+      Arcade - Ghouls n Ghosts - Arthur & Princess_36: -1910027368
+      Arcade - Ghouls n Ghosts - Arthur & Princess_168: -1149270314
+      Arcade - Ghouls n Ghosts - Arthur & Princess_28: 677248986
+      Arcade - Ghouls n Ghosts - Arthur & Princess_266: -2057352082
+      Arcade - Ghouls n Ghosts - Arthur & Princess_256: 1706342678
+      Arcade - Ghouls n Ghosts - Arthur & Princess_341: -336099247
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

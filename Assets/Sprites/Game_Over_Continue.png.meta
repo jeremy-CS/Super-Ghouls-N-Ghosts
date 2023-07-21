@@ -1,0 +1,1156 @@
+fileFormatVersion: 2
+guid: e415f948a67ac4534b176f44a2675ec7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Continue Book_45
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 112
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4abddb419e34967a1783152f8eb96b
+      internalID: -1878263530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 406
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd74faa280898474ebe31d4b2ecb1441
+      internalID: 1322449395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 357
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e95f3d459cc94271be5a17dbee33c56
+      internalID: 1823705319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 308
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daf819ff5cd441f6af74e15917739e9
+      internalID: -712877536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 259
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b47c8b361834c39acd9de03afaf8ae
+      internalID: 992584988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 210
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde6390ecf8f4a65a2c3bb664fbb245
+      internalID: -1347830390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c10a7ca246a42ff958a0f230d5c877
+      internalID: 955718743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 406
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4624dafe780064e02aa3deba5ac36966
+      internalID: -1930713740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 357
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3a7e71d1a6449ccb4bf97cb9d9e2f9
+      internalID: 1057841353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 308
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4d01b9066d1452388966553596806b
+      internalID: -111491554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 259
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab626491cb71401296a2b4d2696696f
+      internalID: -1916789607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b49a8a722294cb484802877462cea0
+      internalID: -194292575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 161
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a227e8199151340b990d967b60ce7d17
+      internalID: -1855222360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 406
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b840cabdb4e5b456e9f4cf50e49eee7c
+      internalID: -994652628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 357
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8a2671ba82147c98902c268f61388f
+      internalID: 1575497004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 308
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2519a934c8ce440085d6c6c5d9ad61c
+      internalID: 1793575146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 259
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa521bdcf6d541828ff1d5a17e0e9c5
+      internalID: 269942183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 210
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d816945eed3b1411b91cc8aa0faa0ae5
+      internalID: 1149139744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 161
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f915cb7b989245bc844c4260268900f
+      internalID: 651215079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 406
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eac171c5573549a6b971d46af543d32
+      internalID: -643112870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 357
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2516c8885c494c46841fff725008a98
+      internalID: 2068818423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 308
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb2e22e43e404222a53fa2ceeec77e1
+      internalID: 1407755599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 259
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed05ccd8a349e4335b91eeffabe9737c
+      internalID: -1969025633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 210
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa204741fa7e45f29d19c9442408bb8
+      internalID: 1949206192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 161
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac977fb9fdcf456ba31cbdc73914c6e
+      internalID: 988215186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 406
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1dbc570d2a44036a48a48ed569517a
+      internalID: -2001360978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 357
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e76ba76360054e09b26e18a79be7da1
+      internalID: 1548791774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 308
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0ac467d2e604841b92f3ce706e8ae3
+      internalID: 646862910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 259
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b3df738061406c9cb2e685d1b9f06
+      internalID: -2119671588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 210
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d1db101acb542c18f6ff4aa8a66754
+      internalID: -774745088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 161
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfb8ef9344fd4485ac0629a57c278f1
+      internalID: 726541456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_30
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 406
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fcae395987c455181a9d4efb7e1683
+      internalID: -469796527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 357
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14180f51d7d2443b8be778877bb25fa8
+      internalID: -806591969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 308
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dff5526a4735461ca2e24f4cd86e066
+      internalID: -105972012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_33
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 259
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafbd418fa3f44547a1e5911c7a47d88
+      internalID: 408277094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 210
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7578fdb7a5ec049da815394951db7fba
+      internalID: -2130547170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_35
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 161
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c2e821058134fa68b8fd45ea406cfe
+      internalID: -1065411032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_36
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 406
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c8432a2ba842f3b1a6fbea7f10dcd
+      internalID: 817861489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_37
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 357
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb3527906b374ac9b239f18f13d3cde
+      internalID: -957206723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_38
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 308
+        width: 91
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e99db3231ac469ebcd25e814b05d77
+      internalID: 1579718450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 259
+        width: 91
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2717e2de5c794686b8253b31be2e9ed
+      internalID: -416181001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_Continue_40
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 210
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f0bcdf618744b48bb1257243b02560
+      internalID: 124373891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 41f34894916324b2387934ceb0c00e90
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Continue Book_23: -1481456121
+      Arcade - Ghouls n Ghosts - Continue Book_91: 1530150846
+      Arcade - Ghouls n Ghosts - Continue Book_41: -75829919
+      Arcade - Ghouls n Ghosts - Continue Book_39: 1379924343
+      Arcade - Ghouls n Ghosts - Continue Book_31: -777252117
+      Arcade - Ghouls n Ghosts - Continue Book_18: -623161869
+      Arcade - Ghouls n Ghosts - Continue Book_12: -1953199503
+      Arcade - Ghouls n Ghosts - Continue Book_38: -592407201
+      Game_Over_Continue_27: -2119671588
+      Arcade - Ghouls n Ghosts - Continue Book_27: -1603322500
+      Arcade - Ghouls n Ghosts - Continue Book_84: 462328685
+      Game_Over_Continue_0: 1322449395
+      Arcade - Ghouls n Ghosts - Continue Book_44: 1355291432
+      Arcade - Ghouls n Ghosts - Continue Book_26: -1774886182
+      Arcade - Ghouls n Ghosts - Continue Book_8: 2051480174
+      Game_Over_Continue_34: -2130547170
+      Arcade - Ghouls n Ghosts - Continue Book_86: 1065208848
+      Game_Over_Continue_19: 2068818423
+      Game_Over_Continue_16: 1149139744
+      Game_Over_Continue_17: 651215079
+      Arcade - Ghouls n Ghosts - Continue Book_64: -1222162568
+      Arcade - Ghouls n Ghosts - Continue Book_14: -156850461
+      Arcade - Ghouls n Ghosts - Continue Book_72: 1153771653
+      Arcade - Ghouls n Ghosts - Continue Book_21: -1816078476
+      Arcade - Ghouls n Ghosts - Continue Book_80: -1450222939
+      Arcade - Ghouls n Ghosts - Continue Book_28: 40886085
+      Game_Over_Continue_8: -111491554
+      Arcade - Ghouls n Ghosts - Continue Book_75: -347713803
+      Arcade - Ghouls n Ghosts - Continue Book_53: -608556325
+      Arcade - Ghouls n Ghosts - Continue Book_10: -1184160553
+      Arcade - Ghouls n Ghosts - Continue Book_47: -233864222
+      Arcade - Ghouls n Ghosts - Continue Book_35: 479378931
+      Arcade - Ghouls n Ghosts - Continue Book_89: -1993429300
+      Arcade - Ghouls n Ghosts - Continue Book_92: -1195196873
+      Game_Over_Continue_13: 1575497004
+      Game_Over_Continue_25: 1548791774
+      Arcade - Ghouls n Ghosts - Continue Book_76: 703472336
+      Arcade - Ghouls n Ghosts - Continue Book_11: -1730842580
+      Arcade - Ghouls n Ghosts - Continue Book_32: 761363189
+      Arcade - Ghouls n Ghosts - Continue Book_58: -740114796
+      Arcade - Ghouls n Ghosts - Continue Book_2: 1247804507
+      Game_Over_Continue_10: -194292575
+      Arcade - Ghouls n Ghosts - Continue Book_88: -1875140773
+      Arcade - Ghouls n Ghosts - Continue Book_78: 1870573134
+      Arcade - Ghouls n Ghosts - Continue Book_73: 693852064
+      Game_Over_Continue_30: -469796527
+      Arcade - Ghouls n Ghosts - Continue Book_71: 1883600037
+      Arcade - Ghouls n Ghosts - Continue Book_51: 1798817353
+      Game_Over_Continue_1: 1823705319
+      Arcade - Ghouls n Ghosts - Continue Book_40: 2118642584
+      Arcade - Ghouls n Ghosts - Continue Book_57: -1312297699
+      Arcade - Ghouls n Ghosts - Continue Book_83: 897689320
+      Game_Over_Continue_21: -1969025633
+      Arcade - Ghouls n Ghosts - Continue Book_62: -1987965183
+      Game_Over_Continue_37: -957206723
+      Arcade - Ghouls n Ghosts - Continue Book_87: 1633641332
+      Game_Over_Continue_29: 726541456
+      Arcade - Ghouls n Ghosts - Continue Book_60: -1766080397
+      Arcade - Ghouls n Ghosts - Continue Book_0: -4216610
+      Game_Over_Continue_2: -712877536
+      Game_Over_Continue_24: -2001360978
+      Arcade - Ghouls n Ghosts - Continue Book_66: 1886225207
+      Game_Over_Continue_7: 1057841353
+      Game_Over_Continue_26: 646862910
+      Game_Over_Continue_35: -1065411032
+      Game_Over_Continue_32: -105972012
+      Game_Over_Continue_3: 992584988
+      Game_Over_Continue_28: -774745088
+      Arcade - Ghouls n Ghosts - Continue Book_7: -1553056925
+      Arcade - Ghouls n Ghosts - Continue Book_42: -788472641
+      Arcade - Ghouls n Ghosts - Continue Book_97: 1501843108
+      Arcade - Ghouls n Ghosts - Continue Book_85: 431881956
+      Game_Over_Continue_33: 408277094
+      Game_Over_Continue_5: 955718743
+      Game_Over_Continue_9: -1916789607
+      Arcade - Ghouls n Ghosts - Continue Book_96: 176322616
+      Arcade - Ghouls n Ghosts - Continue Book_61: 709767465
+      Arcade - Ghouls n Ghosts - Continue Book_67: 519547102
+      Arcade - Ghouls n Ghosts - Continue Book_49: 1550896583
+      Arcade - Ghouls n Ghosts - Continue Book_24: 556756162
+      Arcade - Ghouls n Ghosts - Continue Book_22: 1136566857
+      Arcade - Ghouls n Ghosts - Continue Book_17: 810540361
+      Arcade - Ghouls n Ghosts - Continue Book_55: -1641270800
+      Arcade - Ghouls n Ghosts - Continue Book_16: 1691913634
+      Arcade - Ghouls n Ghosts - Continue Book_63: -1558284473
+      Arcade - Ghouls n Ghosts - Continue Book_4: 1444432701
+      Arcade - Ghouls n Ghosts - Continue Book_93: -1671586457
+      Arcade - Ghouls n Ghosts - Continue Book_20: 1877901932
+      Game_Over_Continue_11: -1855222360
+      Arcade - Ghouls n Ghosts - Continue Book_68: -148151025
+      Arcade - Ghouls n Ghosts - Continue Book_82: 523020216
+      Game_Over_Continue_31: -806591969
+      Game_Over_Continue_20: 1407755599
+      Arcade - Ghouls n Ghosts - Continue Book_43: -691269907
+      Arcade - Ghouls n Ghosts - Continue Book_45: -1878263530
+      Arcade - Ghouls n Ghosts - Continue Book_13: 1766707331
+      Arcade - Ghouls n Ghosts - Continue Book_33: 1854032326
+      Arcade - Ghouls n Ghosts - Continue Book_79: -1086994778
+      Arcade - Ghouls n Ghosts - Continue Book_6: 480338255
+      Arcade - Ghouls n Ghosts - Continue Book_34: -188242474
+      Arcade - Ghouls n Ghosts - Continue Book_1: -2136907297
+      Game_Over_Continue_4: -1347830390
+      Arcade - Ghouls n Ghosts - Continue Book_15: -574409588
+      Arcade - Ghouls n Ghosts - Continue Book_77: 1601641178
+      Game_Over_Continue_6: -1930713740
+      Arcade - Ghouls n Ghosts - Continue Book_36: -267763610
+      Arcade - Ghouls n Ghosts - Continue Book_46: -64616959
+      Game_Over_Continue_39: -416181001
+      Arcade - Ghouls n Ghosts - Continue Book_50: -1381567249
+      Arcade - Ghouls n Ghosts - Continue Book_95: 2141731658
+      Arcade - Ghouls n Ghosts - Continue Book_56: -1572343552
+      Arcade - Ghouls n Ghosts - Continue Book_25: -261858745
+      Arcade - Ghouls n Ghosts - Continue Book_29: -990171554
+      Game_Over_Continue_12: -994652628
+      Arcade - Ghouls n Ghosts - Continue Book_3: 134426045
+      Arcade - Ghouls n Ghosts - Continue Book_74: 320961470
+      Arcade - Ghouls n Ghosts - Continue Book_70: -1585880309
+      Game_Over_Continue_18: -643112870
+      Game_Over_Continue_22: 1949206192
+      Arcade - Ghouls n Ghosts - Continue Book_52: -596688303
+      Arcade - Ghouls n Ghosts - Continue Book_19: 1852763837
+      Arcade - Ghouls n Ghosts - Continue Book_48: -1464259204
+      Arcade - Ghouls n Ghosts - Continue Book_94: 458599911
+      Arcade - Ghouls n Ghosts - Continue Book_54: 1452052929
+      Arcade - Ghouls n Ghosts - Continue Book_9: -595145087
+      Arcade - Ghouls n Ghosts - Continue Book_59: -1198790956
+      Arcade - Ghouls n Ghosts - Continue Book_69: 1163690449
+      Game_Over_Continue_14: 1793575146
+      Game_Over_Continue_38: 1579718450
+      Game_Over_Continue_40: 124373891
+      Arcade - Ghouls n Ghosts - Continue Book_5: -1032336078
+      Arcade - Ghouls n Ghosts - Continue Book_30: 486930165
+      Arcade - Ghouls n Ghosts - Continue Book_65: -1099558937
+      Game_Over_Continue_15: 269942183
+      Game_Over_Continue_36: 817861489
+      Arcade - Ghouls n Ghosts - Continue Book_37: 1176910311
+      Game_Over_Continue_23: 988215186
+      Arcade - Ghouls n Ghosts - Continue Book_90: -592945388
+      Arcade - Ghouls n Ghosts - Continue Book_81: -1296327131
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
